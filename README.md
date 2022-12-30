@@ -1,3 +1,2 @@
-| Supported Targets | ESP32 | ESP32S2 |
-| ----------------- | ----- | ------- |
-
+SCL: PIN 9
+SDA: PIN 8
